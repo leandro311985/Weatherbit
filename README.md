@@ -1,0 +1,5 @@
+# TESTE DE ANDROID DELIVERY CENTER
+
+Arquitetura bem estruturada (MVVM)
+Testes unitários (EXPRESSO)
+INJECÃO DE DEPEDENCIA KOIN
